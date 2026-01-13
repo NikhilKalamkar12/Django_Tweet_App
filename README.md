@@ -104,6 +104,9 @@ python manage.py migrate
 
 ### 5️⃣ Run the Development Server
 ```bash
+cd firstone
+```
+```bash
 python manage.py runserver
 ```
 
