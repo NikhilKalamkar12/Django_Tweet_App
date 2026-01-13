@@ -23,7 +23,8 @@ The **Django Tweet App** is a project where users can create short text posts (t
 Frontend : HTML, CSS, Django Templates
 Backend  : Django (Python)
 Database : SQLite (default Django database)
-Tools    : Git, GitHub
+Tools    : Django ORM – Database interactions,
+           VS Code – Code editor
 ```
 
 ---
